@@ -1,6 +1,6 @@
 # IKSims
 Artifact demonstrating different tests of Inverse Kinematics through Game Programming.
----
+![IKSims Banner](https://github.com/jswilkinSMU/IKSims/blob/main/IKSimsHeroImg.png)
 ### Modes
  - Game3D: Mode demonstrating 3D rigged mannequin, bone hierarchy, and Two-Bone IK.
  - Game2D: Mode demonstrating 2D rigged bone chain with simple constraint tests.
