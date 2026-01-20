@@ -1,5 +1,5 @@
 # IKSims
-Artifact demonstrating different tests of Inverse Kinematics through Game Programming.
+Thesis Artifact demonstrating different tests of Inverse Kinematics through Game Programming.
 ![IKSims Banner](https://github.com/jswilkinSMU/IKSims/blob/main/IKSimsHeroImg.png)
 
 ### Modes
